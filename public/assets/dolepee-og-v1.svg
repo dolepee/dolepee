@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Dolepee — Verifiable software for agent commerce</title>
+  <desc id="description">Dolepee project index for Conviction, PolicyPool, GlassDesk, and Foreman.</desc>
+
+  <rect width="1200" height="675" fill="#f3f0e6"/>
+  <rect x="0" y="0" width="18" height="540" fill="#b7f443"/>
+
+  <g transform="translate(64 56)">
+    <rect width="64" height="64" rx="12" fill="#101310"/>
+    <path fill="#b7f443" fill-rule="evenodd" d="M16 14h15.5C43.6 14 51 20.8 51 32S43.6 50 31.5 50H16V14Zm9 8v20h6.1c7 0 10.9-3.5 10.9-10s-3.9-10-10.9-10H25Z"/>
+    <circle cx="52" cy="49" r="3" fill="#f3f0e6"/>
+  </g>
+
+  <text x="152" y="103" fill="#101310" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1">Dolepee</text>
+  <text x="1136" y="95" fill="#565d55" font-family="Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2.5" text-anchor="end">PROJECT INDEX</text>
+  <line x1="64" y1="151" x2="1136" y2="151" stroke="#101310" stroke-width="2"/>
+
+  <text x="64" y="212" fill="#565d55" font-family="Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2.4">INDEPENDENT PRODUCT STUDIO</text>
+  <text x="64" y="316" fill="#101310" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-4">Verifiable software</text>
+  <text x="64" y="405" fill="#101310" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-4">for agent commerce.</text>
+  <line x1="64" y1="476" x2="1136" y2="476" stroke="#c8c5bb" stroke-width="2"/>
+  <text x="64" y="512" fill="#565d55" font-family="Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1.7">PUBLIC REPOSITORIES  /  BOUNDED SCOPE  /  VERIFIABLE RECEIPTS</text>
+
+  <rect x="0" y="540" width="1200" height="135" fill="#101310"/>
+  <rect x="64" y="582" width="12" height="12" fill="#b7f443"/>
+  <text x="96" y="600" fill="#f3f0e6" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.8">Conviction</text>
+  <text x="318" y="600" fill="#b7f443" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.8">PolicyPool</text>
+  <text x="556" y="600" fill="#f3f0e6" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.8">GlassDesk</text>
+  <text x="790" y="600" fill="#b7f443" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.8">Foreman</text>
+  <text x="1136" y="598" fill="#9ea39b" font-family="Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1.5" text-anchor="end">DOLEPEE.COM</text>
+</svg>
